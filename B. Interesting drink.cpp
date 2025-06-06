@@ -6,7 +6,8 @@ using namespace std;
 
 /*
 Aunque esta es la forma manual, ya existe una funcion que se encarga de devolver el 
-mayor número que es menor o igual a p con la función con upper_bound()
+mayor número que es menor o igual a p con la función con upper_bound(),como parametros 
+el arr, arr + tam
 */
 int main(int argc, char const *argv[])
 {
