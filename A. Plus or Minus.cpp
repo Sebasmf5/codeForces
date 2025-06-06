@@ -1,5 +1,5 @@
 #include <iostream>
-
+//46 ms	0 KB
 using namespace std;
 
 int main(int argc, char const *argv[])
